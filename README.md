@@ -1,1 +1,2 @@
-# TrabalhoBD - teste
+# TrabalhoBD 
+Introdução a Banco de dados - UFMG
